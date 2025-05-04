@@ -68,3 +68,6 @@ Run the Jupyter notebook [fast_detect_gpt.ipynb](fast_detect_gpt.ipynb) to:
 2. Generate text samples using GPT-2
 3. Run the Fast-DetectGPT detection algorithm
 4. Evaluate performance and generate visualizations
+
+If you have issues viewing the notebook, you can access a rendered version here:
+[View notebook on nbviewer](https://nbviewer.org/github/laurentlaurent/LLM-generated-text-detection/blob/main/fast_detect_gpt_with_output.ipynb)
